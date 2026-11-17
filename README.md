@@ -6,6 +6,12 @@ macOS has no force feedback driver for these wheels, so games running through Wi
 BeamNG.drive with [BeamNG Launcher for Mac](https://github.com/j0di3x/beamng-mac-launcher)) can
 steer with them but can't drive their motor. PedalBox fills that gap.
 
+## Download
+
+Get the latest **PedalBox .dmg** from [Releases](https://github.com/j0di3x/PedalBox/releases/latest)
+and drag PedalBox onto Applications. The first time, right-click → Open (the app isn't notarized).
+Runs on macOS 14 or newer, Apple silicon and Intel.
+
 ## Force feedback for BeamNG.drive (experimental)
 
 - A small BeamNG mod (installed by BeamNG Launcher when you turn on **Wheel force feedback**)
