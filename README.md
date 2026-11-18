@@ -44,3 +44,8 @@ xcodebuild -project PedalBox.xcodeproj -scheme PedalBox -configuration Release b
 ```
 
 Protocol facts and their sources are in [docs/RESEARCH.md](docs/RESEARCH.md).
+
+## Licence
+
+MIT, see [LICENSE](LICENSE). PedalBox copies no code from the GPL projects listed in
+[docs/RESEARCH.md](docs/RESEARCH.md); it only uses protocol facts (byte values) documented there.
